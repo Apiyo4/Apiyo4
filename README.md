@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 ### I'm a software engineer who enjoys designing and building web applications
 🔭 I'm currently working on an automation application that doesn't use the availabe OCR libraries, so I'm creating one from the ground up.\
-🤔 If you've done something like this, feel free to get in touch and I might just buy you coffee.\
+🤔 If you've done something like this, feel free to get in touch and I'll buy you coffee.\
 💬 Also if you're building a front-end application using either React or Angular, and you have any bugs or need some help, feel free to get in touch.\
 📫 You can reach by email at odingoannette@gmail.com.
