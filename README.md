@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🔭 I'm currently working on an automation application that doesn't use the availabe OCR libraries, so I'm creating one from the ground up.\
 🤔 If you've done something like this, feel free to get in touch and I might just buy you coffee.\
 💬 Also if you're building a front-end application using either React or Angular, and you have any bugs or need some help, feel free to get in touch.\
-📫 You can reach by email at odingoannette@gmail.com (I check my emails every two-hours).
+📫 You can reach by email at odingoannette@gmail.com.
