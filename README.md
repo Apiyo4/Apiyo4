@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm a software engineer who enjoys building web applications
+🔭 I'm currently working on an automation application that doesn't use the availabe OCR libraries, so I'm creating one from the ground up.\
+🤔 If you've done something like this feel free to get in touch and I might just buy you coffee.\
+💬 Also if you're building a front-end application and you have any bugs or need some help, feel free to get in touch.\
+📫 You can reach by email at odingoannette@gmail.com (I check my emails every two-hours).
